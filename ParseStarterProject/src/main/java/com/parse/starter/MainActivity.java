@@ -15,9 +15,11 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.parse.GetCallback;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
 import com.parse.ParseObject;
+import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
@@ -29,9 +31,10 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+
     ParseObject pontuacao = new ParseObject("Pontuacao");
-    pontuacao.put("nome","Mario");
-    pontuacao.put("pontos",10);
+    pontuacao.put("nome","Joao");
+    pontuacao.put("pontos",17);
     pontuacao.saveInBackground(new SaveCallback() {
       @Override
       public void done(ParseException e) {
@@ -43,8 +46,21 @@ public class MainActivity extends AppCompatActivity {
         }
       }
     });
-
     ParseUser.enableAutomaticUser();
+
+    /*
+    ParseQuery<ParseObject> consulta = ParseQuery.getQuery("Pontuacao");
+    consulta.getInBackground("gaqki4IsE9", new GetCallback<ParseObject>() {
+      @Override
+      public void done(ParseObject object, ParseException e) {
+        if( e == null){
+          object.put("pontos",100000);
+          object.saveInBackground();
+        }else {
+          Log.i("consultaObjeto", "Erro ao consultar objeto!");
+        }
+      }
+    });*/
   }
 
 
