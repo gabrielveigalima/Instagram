@@ -15,6 +15,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.parse.FindCallback;
 import com.parse.GetCallback;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
@@ -23,6 +24,8 @@ import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
+import java.util.List;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -30,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
-
+ /*
 
     ParseObject pontuacao = new ParseObject("Pontuacao");
     pontuacao.put("nome","Joao");
@@ -61,6 +64,23 @@ public class MainActivity extends AppCompatActivity {
         }
       }
     });*/
+
+    ParseQuery<ParseObject> filtro = ParseQuery.getQuery("Pontuacao");
+    filtro.whereGreaterThan("pontos", 100);
+    filtro.findInBackground(new FindCallback<ParseObject>() {
+      @Override
+      public void done(List<ParseObject> objects, ParseException e) {
+        if( e == null){
+          for (ParseObject object : objects){
+            Log.i("listarDados", "Nome: "+ object.get("nome") + " | Pontos: " + object.get("pontos"));
+          }
+        }else {
+          Log.i("listarDados", "Erro ao listar dados "+ e.getMessage());
+        }
+      }
+    });
+
+
   }
 
 
