@@ -199,28 +199,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sv_values-sv.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-sv\\values-sv.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "291,397,500,611,696,798,911,1017,1117,1213,1318,1420,1522",
-                        "endColumns": "105,102,110,84,101,112,105,99,95,104,101,101,116",
-                        "endOffsets": "392,495,606,691,793,906,1012,1112,1208,1313,1415,1517,1634"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,161,264,375,460,562,675,781,881,977,1082,1184,1286",
-                        "endColumns": "105,102,110,84,101,112,105,99,95,104,101,101,116",
-                        "endOffsets": "156,259,370,455,557,670,776,876,972,1077,1179,1281,1398"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Gabriel\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sk_values-sk.arsc.flat",
             "map": [
                 {
@@ -238,6 +216,28 @@
                         "startOffsets": "55,162,262,373,459,567,685,790,899,998,1104,1215,1324",
                         "endColumns": "106,99,110,85,107,117,104,108,98,105,110,108,123",
                         "endOffsets": "157,257,368,454,562,680,785,894,993,1099,1210,1319,1443"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,397,500,611,696,798,911,1017,1117,1213,1318,1420,1522",
+                        "endColumns": "105,102,110,84,101,112,105,99,95,104,101,101,116",
+                        "endOffsets": "392,495,606,691,793,906,1012,1112,1208,1313,1415,1517,1634"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,264,375,460,562,675,781,881,977,1082,1184,1286",
+                        "endColumns": "105,102,110,84,101,112,105,99,95,104,101,101,116",
+                        "endOffsets": "156,259,370,455,557,670,776,876,972,1077,1179,1281,1398"
                     }
                 }
             ]
@@ -287,28 +287,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-de_values-de.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-de\\values-de.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "291,396,494,606,692,797,912,1023,1126,1225,1336,1438,1545",
-                        "endColumns": "104,97,111,85,104,114,110,102,98,110,101,106,121",
-                        "endOffsets": "391,489,601,687,792,907,1018,1121,1220,1331,1433,1540,1662"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,160,258,370,456,561,676,787,890,989,1100,1202,1309",
-                        "endColumns": "104,97,111,85,104,114,110,102,98,110,101,106,121",
-                        "endOffsets": "155,253,365,451,556,671,782,885,984,1095,1197,1304,1426"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Gabriel\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-w360dp-v13_values-w360dp-v13.arsc.flat",
             "map": [
                 {
@@ -326,6 +304,28 @@
                         "startOffsets": "55",
                         "endColumns": "54",
                         "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,396,494,606,692,797,912,1023,1126,1225,1336,1438,1545",
+                        "endColumns": "104,97,111,85,104,114,110,102,98,110,101,106,121",
+                        "endOffsets": "391,489,601,687,792,907,1018,1121,1220,1331,1433,1540,1662"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,258,370,456,561,676,787,890,989,1100,1202,1309",
+                        "endColumns": "104,97,111,85,104,114,110,102,98,110,101,106,121",
+                        "endOffsets": "155,253,365,451,556,671,782,885,984,1095,1197,1304,1426"
                     }
                 }
             ]
@@ -709,28 +709,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-hy-rAM_values-hy-rAM.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "295,398,499,609,699,805,920,1027,1134,1233,1343,1450,1551",
-                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
-                        "endOffsets": "393,494,604,694,800,915,1022,1129,1228,1338,1445,1546,1666"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,259,369,459,565,680,787,894,993,1103,1210,1311",
-                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
-                        "endOffsets": "153,254,364,454,560,675,782,889,988,1098,1205,1306,1426"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Gabriel\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-de_values-de.arsc.flat",
             "map": [
                 {
@@ -753,23 +731,23 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-af_values-af.arsc.flat",
+            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-hy-rAM_values-hy-rAM.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "291,395,495,601,686,789,907,1014,1117,1214,1322,1424,1526",
-                        "endColumns": "103,99,105,84,102,117,106,102,96,107,101,101,116",
-                        "endOffsets": "390,490,596,681,784,902,1009,1112,1209,1317,1419,1521,1638"
+                        "startOffsets": "295,398,499,609,699,805,920,1027,1134,1233,1343,1450,1551",
+                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
+                        "endOffsets": "393,494,604,694,800,915,1022,1129,1228,1338,1445,1546,1666"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,259,365,450,553,671,778,881,978,1086,1188,1290",
-                        "endColumns": "103,99,105,84,102,117,106,102,96,107,101,101,116",
-                        "endOffsets": "154,254,360,445,548,666,773,876,973,1081,1183,1285,1402"
+                        "startOffsets": "55,158,259,369,459,565,680,787,894,993,1103,1210,1311",
+                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
+                        "endOffsets": "153,254,364,454,560,675,782,889,988,1098,1205,1306,1426"
                     }
                 }
             ]
@@ -792,6 +770,28 @@
                         "startOffsets": "55,150,243,343,425,522,630,726,822,917,1014,1109,1207",
                         "endColumns": "94,92,99,81,96,107,95,95,94,96,94,97,112",
                         "endOffsets": "145,238,338,420,517,625,721,817,912,1009,1104,1202,1315"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,395,495,601,686,789,907,1014,1117,1214,1322,1424,1526",
+                        "endColumns": "103,99,105,84,102,117,106,102,96,107,101,101,116",
+                        "endOffsets": "390,490,596,681,784,902,1009,1112,1209,1317,1419,1521,1638"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,259,365,450,553,671,778,881,978,1086,1188,1290",
+                        "endColumns": "103,99,105,84,102,117,106,102,96,107,101,101,116",
+                        "endOffsets": "154,254,360,445,548,666,773,876,973,1081,1183,1285,1402"
                     }
                 }
             ]

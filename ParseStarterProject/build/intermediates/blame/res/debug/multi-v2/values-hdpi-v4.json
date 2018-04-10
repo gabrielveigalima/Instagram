@@ -4,55 +4,7 @@
             "outputFile": "C:\\Users\\Gabriel\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-hdpi\\values-hdpi.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "297",
-                        "endLines": "8",
-                        "endColumns": "13",
-                        "endOffsets": "567"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "325"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Gabriel\\Desktop\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\18c063eb1aaf42c3b6f2ddf71768010e\\res\\values-hdpi\\values-hdpi.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "297",
-                        "endLines": "8",
-                        "endColumns": "13",
-                        "endOffsets": "567"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "325"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\gabriel.lima\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\gabriel.lima\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\cf045d22ff20d19c2a35296a02d0dd97\\res\\values-hdpi\\values-hdpi.xml",
+                    "source": "C:\\Users\\Gabriel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\6469a1ca0fcdf164a01c183f7528f465\\res\\values-hdpi\\values-hdpi.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
