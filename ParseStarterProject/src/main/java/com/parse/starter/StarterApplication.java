@@ -30,12 +30,11 @@ public class StarterApplication extends Application {
 
     // Codigo de configuração do App
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-            .applicationId("g4briel0m4is")
+            .applicationId("md45265JRMLD5485ADF758DFALOIKD565254ASD574")
             .clientKey(null)
-            .server("http://instagram2607.herokuapp.com/parse/")
+            .server("http://instagram6536.herokuapp.com/parse/")
     .build()
     );
-
 
       //ParseUser.enableAutomaticUser();
     ParseACL defaultACL = new ParseACL();

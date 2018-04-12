@@ -1,4 +1,4 @@
-#Tue Apr 10 21:54:18 BRT 2018
+#Thu Apr 12 20:45:38 BRT 2018
 base.0=C\:\\Users\\Gabriel\\Desktop\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

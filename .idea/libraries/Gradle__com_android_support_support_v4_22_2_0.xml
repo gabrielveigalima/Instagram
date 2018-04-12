@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-v4-22.2.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/449cc5682ac0fdc536f5596c8a6a2f50/jars/libs/internal_impl-22.2.0.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/449cc5682ac0fdc536f5596c8a6a2f50/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/449cc5682ac0fdc536f5596c8a6a2f50/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/a58cb3f4e857a4de899774e8221a56a6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/a58cb3f4e857a4de899774e8221a56a6/jars/libs/internal_impl-22.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/a58cb3f4e857a4de899774e8221a56a6/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0-javadoc.jar!/" />
